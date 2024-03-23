@@ -22,7 +22,7 @@ SecurePass Alert is a simple tool to check if a password has been found in data 
 1. Run the application:
 
     ```bash
-    python securepass.py
+    python SecurePass.py
     ```
 
 2. Enter your password in the provided input field.
